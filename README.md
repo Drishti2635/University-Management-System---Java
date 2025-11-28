@@ -52,4 +52,4 @@ Feel free to fork this repository and submit pull requests.
 ---
 
 ## 👤 Developed by
-*Drishti Vashishtha
+Drishti Vashishtha
