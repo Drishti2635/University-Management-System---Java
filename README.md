@@ -53,11 +53,11 @@ lib/ (optional) → External JAR dependencies
 
 | Add New Student | New Teacher Detail – 1 |
 |-----------------|------------------------|
-| ![Add New Student](Screenshots/Add New Student.png) | ![New Teacher Detail 1](Screenshots/New Teacher Detail 1.png) |
+| ![Add New Student](Screenshots/Add_New_Student.png) | ![New Teacher Detail 1](Screenshots/New_Teacher_Detail_1.png) |
 
 | New Teacher Detail – 2 | Student Fee |
 |------------------------|-------------|
-| ![New Teacher Detail 2](Screenshots/New Teacher Detail 2.png) | ![Student Fee](Screenshots/Student Fee.png) |
+| ![New_Teacher_Detail_2](Screenshots/New_Teacher_Detail_2.png) | ![Student Fee](Screenshots/Student_Fee.png) |
 ---
 ## Contribution
 Feel free to fork this repository and submit pull requests.
