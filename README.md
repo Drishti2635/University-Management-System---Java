@@ -45,7 +45,20 @@ lib/ (optional) → External JAR dependencies
 5. Run Main.java
 
 ---
+## 📸 Screenshots / Demo
 
+| Login Page | Dashboard |
+|------------|-----------|
+| ![Login](Screenshots/Login.png) | ![Dashboard](Screenshots/Dashboard.png) |
+
+| Add New Student | New Teacher Detail – 1 |
+|-----------------|------------------------|
+| ![Add New Student](Screenshots/Add New Student.png) | ![New Teacher Detail 1](Screenshots/New Teacher Detail 1.png) |
+
+| New Teacher Detail – 2 | Student Fee |
+|------------------------|-------------|
+| ![New Teacher Detail 2](Screenshots/New Teacher Detail 2.png) | ![Student Fee](Screenshots/Student Fee.png) |
+---
 ## Contribution
 Feel free to fork this repository and submit pull requests.
 
