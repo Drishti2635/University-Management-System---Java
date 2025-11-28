@@ -46,10 +46,10 @@ lib/ (optional) → External JAR dependencies
 
 ---
 
-## 🤝 Contribution
+## Contribution
 Feel free to fork this repository and submit pull requests.
 
 ---
 
-## 👤 Developed by
+## Developed by
 Drishti Vashishtha
